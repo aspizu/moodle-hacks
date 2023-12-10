@@ -5,6 +5,8 @@ Hacks for learning.dypiu.ac.in
 > [!WARNING]
 > Use at your own risk! I'm not responsible for anything this userscript might do to your account. Make sure you understand what this script does before executing it.
 
+[**Install**](https://github.com/aspizu/moodle-hacks/raw/main/moodleHacks.user.js)
+
 # Features
 
 ## Automatic login.
