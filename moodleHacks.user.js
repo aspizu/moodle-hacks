@@ -12,7 +12,7 @@
 
 // Configuration ---------------------------------------------- //
 const autoLogin = true;
-const autoLoginEmail = "20230802119@dypiu.ac.in";
+const autoLoginEmail = "prn@dypiu.ac.in";
 const openInNewTab = true;
 // ------------------------------------------------------------ //
 
